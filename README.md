@@ -16,3 +16,11 @@ O sistema é composto por uma bomba de ar (linhas de ar comprimidos na entrada e
 Este ventilador é capaz de lidar com a respiração controlada por pressão, estabilizada usando um controlador PID no software.
 
 Estamos implementando a respiração controlada por volume e posteriormente a respiração assitida.
+
+---
+
+# Esquemas
+
+##Circuito Pneumático
+
+![Pneumatic Circuit Scheme](./Pneumatic_Circuit.png)
