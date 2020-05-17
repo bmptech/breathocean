@@ -23,4 +23,4 @@ Estamos implementando a respiração controlada por volume e posteriormente a re
 
 ## Circuito Pneumático
 
-![Pneumatic Circuit Scheme](./Pneumatic_Circuit.png)
+![Pneumatic Circuit Scheme](./pneumático/Pneumatic_Circuit_05-2020.png)
